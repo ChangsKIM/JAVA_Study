@@ -14,5 +14,6 @@ public class ExQuest01 {
         int sum = 0;
         sum = num1+num2;
         System.out.println("총 합 : "+sum);
+
     }
 }
