@@ -31,5 +31,6 @@ public class Arithmetic0perator {
         System.out.println(o*l);
         System.out.println(o);
 
+
     }
 }
