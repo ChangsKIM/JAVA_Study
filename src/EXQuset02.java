@@ -13,6 +13,5 @@ public class EXQuset02 {
         }
         System.out.println(sum);
 
-
     }
 }
