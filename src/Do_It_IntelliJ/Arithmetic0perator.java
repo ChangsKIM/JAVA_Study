@@ -27,7 +27,8 @@ public class Arithmetic0perator {
         System.out.println(w);
         System.out.println(q+w);
 
-
+        int o = 3, l = 4;
+        System.out.println(o*l);
 
 
     }
