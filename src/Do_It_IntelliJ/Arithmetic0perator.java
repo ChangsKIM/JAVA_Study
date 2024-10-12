@@ -29,7 +29,7 @@ public class Arithmetic0perator {
 
         int o = 3, l = 4;
         System.out.println(o*l);
-
+        System.out.println(o);
 
     }
 }
