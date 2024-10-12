@@ -13,6 +13,7 @@ public class ExQuest02 {
             sum += number % 10;
             number /= 10;
         }
+
         System.out.println(sum);
 
     }
