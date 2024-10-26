@@ -30,7 +30,6 @@ public class JDBCTest1 {
             }
         } catch (ClassNotFoundException e) {
             throw new RuntimeException(e);
-            
         }
     }
 }
