@@ -29,6 +29,8 @@ public class JDBCTest1 {
                 throw new RuntimeException(e);
             }
 
+
+
         } catch (ClassNotFoundException e) {
             throw new RuntimeException(e);
         }
